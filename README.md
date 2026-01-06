@@ -5,7 +5,6 @@
 ![](./Image/1.png)
  <a> <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" align="right" height="50" > <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ><img src="./Image/matlab_logo.svg" align="right" height="56"><img src="./Image/icons8-markdown-50.png" align="left" width="60"><img src="./Image/icons8-google-60.png" align="left" width="60"><img src="./Image/icons8-education-48.png" align="left" width="60"><img src="./Image/icons8-microsoft-edge-48.png" align="left" width="60"><img src="./Image/icons8-chatgpt-48.png" align="left" width="60"><img src="./Image/icons8-deepseek-48.png" align="left" width="60"><img src="./Image/icons8-github-48.png" align="right" width="60"></a>
 
-
 <!--
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
